@@ -1,5 +1,5 @@
 import streamlit
-st.title("MY FIRST STREAMLIT APP")
+streamlit.title("MY FIRST STREAMLIT APP")
 streamlit.header('Breakfast Menu')
 streamlit.text('Omega 3 & Blueberry Oatmeal')
 streamlit.text('Kale, Spinach & Rocket Smoothie')

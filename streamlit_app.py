@@ -1,4 +1,4 @@
-import streamlit as st
+import streamlit
 st.title("MY FIRST STREAMLIT APP")
 streamlit.header('Breakfast Menu')
 streamlit.text('Omega 3 & Blueberry Oatmeal')

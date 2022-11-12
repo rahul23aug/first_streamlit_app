@@ -1,6 +1,7 @@
 import streamlit
 import pandas
 import requests
+from urllib.error import URLError
 import snowflake.connector
 
 streamlit.title("MY FIRST STREAMLIT APP")
